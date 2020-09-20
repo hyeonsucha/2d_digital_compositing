@@ -39,9 +39,9 @@
 
 디지털 합성의 예시로는 일반적인 합성 작업에 블루(그린)스크린 합성, 로토 스코핑, 매트 페인팅 등이 있다.
 
+
 # 자료 출처
 
 https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EC%B1%84%EB%84%90
 https://ko.wikipedia.org/wiki/RGBA_%EC%83%89_%EA%B3%B5%EA%B0%84
-https://en.wikipedia.org/wiki/Digital_compositing
 https://m.blog.naver.com/loveandpic/220090263405
