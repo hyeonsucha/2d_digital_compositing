@@ -20,8 +20,7 @@
 
 디지털 신호에 의해 만들어진 색채 표현 방법으로 빛의 3원색인 빨강, 파랑, 초록으로 색을 구성한다. 최소의 단위는 '비트(Bit)'이며, 비트수는 디지털 색수를 결정한다. '비트'가 모여 '화소(Pixel픽셀)'를 나타낸다. 또한 화소는 디지털 이미지의 최소 단위이며 이미지의 선명도를 결정짓는 요소이다. 따라서 이미지의 해상도가 높다는 것은 모니터 속 화소의 수가 많다는 것을 의미한다.
 
-![33d0de70735b26ef31ec28617144b9ac6f27d09f355eb019e028357b5944325c4a89b88a63e3a88fe9edd5cd739487bf94332da32b4cab5c3ba1e74bc08af6c8b1f2d5096fe82674ff5077e2cffe3a5ae6b0c0150fa23e59a0eeab5a83aa2490](https://user-images.githubusercontent.com/71221618/93718193-72afd600-fbb5-11ea-83c7-e1afd31652bd.png)
-
+![a771cf3bb585e887556cb2a26cd54698](https://user-images.githubusercontent.com/71221618/93718240-c15d7000-fbb5-11ea-9be5-767271ec238a.gif)
 
 
 # 자료 출처
