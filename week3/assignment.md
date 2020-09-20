@@ -7,11 +7,17 @@
 포토샵의 기능 중 '퀵 마스크 모드', '레이어 마스크'가 대표적인 알파 채널의 예시이다. 물론 이 밖에도 각종 이미지의 편집과 합성에 사용된다. 즉 알파는 각 화소가 얼마나 투명한지를 나타낸다.
 
 
+
+
 # What is (Digital) Color
 
 ## 색
 
 색은 크게 '색상', '명도', '채도' 3가지 속성으로 이루어져 있다. 색상은 색 이름으로 구분지어지는 속성으로 빨강, 주황, 노랑이 그것이다. 명도는 색의 밝고 어두운 정도를 나타내는 속성이다. 명도가 낮으면 어둡고, 명도가 높으면 밝다. 채도는 색의 선명하고 흐린 정도를 나타내는 속성으로 회색, 흰색, 검정과 같은 무채색에 가까울수록 채도가 낮은 것이다.
+
+![600px-MunsellColorWheel svg](https://user-images.githubusercontent.com/71221618/93717828-3d09ed80-fbb3-11ea-8765-ce09e8fc0ebd.png)
+
+![600px-MunsellColorWheel svg](https://user-images.githubusercontent.com/71221618/93717828-3d09ed80-fbb3-11ea-8765-ce09e8fc0ebd.png)
 
 
 1비트 : 2의1승 - 2색(검정,흰색)
