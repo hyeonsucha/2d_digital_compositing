@@ -12,7 +12,8 @@
 
 ![600px-MunsellColorWheel svg](https://user-images.githubusercontent.com/71221618/93717828-3d09ed80-fbb3-11ea-8765-ce09e8fc0ebd.png)
 
-![600px-MunsellColorWheel svg](https://user-images.githubusercontent.com/71221618/93717828-3d09ed80-fbb3-11ea-8765-ce09e8fc0ebd.png)
+![unnamed](https://user-images.githubusercontent.com/71221618/93717902-9e31c100-fbb3-11ea-9448-951d36be836e.jpg)
+
 
 # What is Digital Color?
 
