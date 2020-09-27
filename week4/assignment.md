@@ -34,6 +34,8 @@ RGB는 가산혼합 방식이기 때문에 세가지 색이 섞이면 하얀색�
 
 또한 흰색(1, 1, 1)과 검정(0, 0, 0)을 선으로 이을 수 있는데, 이것은 밝기값을 나타낸다.
 
+*********
+
 # 2. 감마(Gamma)
 
 2-1. 감마란?
@@ -45,4 +47,7 @@ RGB는 가산혼합 방식이기 때문에 세가지 색이 섞이면 하얀색�
 
 
 # 출처
+
 https://www.youtube.com/watch?v=SxYid1Admas&ab_channel=NettMario
+
+https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
