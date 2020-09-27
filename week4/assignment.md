@@ -1,4 +1,4 @@
-# 1. 컬러스페이스(Colorspace)
+# 1. 컬러스페이스 (Colorspace)
 
 1-1. 컬러스페이스란?
 -------------
@@ -36,7 +36,7 @@ RGB는 가산혼합 방식이기 때문에 세가지 색이 섞이면 하얀색�
 
 *********
 
-# 2. 감마(Gamma)
+# 2. 감마 (Gamma), 리니어 워크플로우 (Linear Workflow)
 
 2-1. 베버의 법칙
 ---------
@@ -46,7 +46,7 @@ RGB는 가산혼합 방식이기 때문에 세가지 색이 섞이면 하얀색�
 
 두 그라데이션 중 2번이 수치적으로 균등한 그라데이션이지만, 인간의 눈은 1번이 더 옳다고 느낀다. 
 
-2-2. 감마란?
+2-2. 감마 보정
 --------------
 감마란 컴퓨터에 입력된 영상신호값과 화면의 휘도(빛의 양)간의 관계를 나타내는 계수로 수식으로 표현하면 다음과 같다.
 
@@ -58,13 +58,15 @@ Y(휘도) = X(영상 신호)의 Z(감마) 제곱
 
 ![111](https://user-images.githubusercontent.com/71221618/94371476-d5fbb400-0131-11eb-9445-fe861de6ffe8.png)
 
+이처럼 카메라가 기록하는 선형 값을 비선형 관계로 인코딩하는 작업을 감마 보정이라 한다.
 
+*****************
 
+2-3. sRGB / Linear
+-----------
+컴퓨터 이미지는 실재보다 어둡게 표현되기 때문에, 실재와 화면의 밝기를 맞춰주기 위해 카메라로 촬영 된 파일을 실제 모습보다 중간톤을 밝게 저장한다. 이렇게 원본 파일보다 중간톤을 밝게 저장한 것을 sRGB라 한다. sRGB의 대표적인 예시로는 JPG확장자가 있다. 반대로 원본을 그대로 저장하는 것을 Linear라 한다. 즉 Linear는 실제 세상의 빛을 그대로 표현한 것이라 할 수 있다.
 
-
-# Gamma
-#
-
+*********************
 
 # 출처
 
@@ -73,4 +75,8 @@ https://www.youtube.com/watch?v=SxYid1Admas&ab_channel=NettMario
 https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
 
 https://www.youtube.com/watch?v=Xwlm5V-bnBc&ab_channel=UnityKorea
+
+https://ko.wikipedia.org/wiki/%EA%B0%90%EB%A7%88_%EB%B3%B4%EC%A0%95
+
+https://m.blog.naver.com/PostView.nhn?blogId=zinblue&logNo=140199808147&proxyReferer=https:%2F%2Fwww.google.com%2F
 
