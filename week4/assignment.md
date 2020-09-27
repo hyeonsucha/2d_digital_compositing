@@ -39,7 +39,12 @@ RGB는 가산혼합 방식이기 때문에 세가지 색이 섞이면 하얀색�
 # 2. 감마(Gamma)
 
 2-1. 감마란?
-----------
+---------
+인간은 자극이 없는 상황에서 추가된 자극은 민감하게 느끼고, 자극이 많은 상태에서 추가되는 자극은 둔감하게 느낀다. 즉 감각에 따라 비선형적으로 반응하는데 이것이 시각에 적용되면 다음과 같다.
+
+![9088_3](https://user-images.githubusercontent.com/71221618/94370839-376d5400-012d-11eb-92cf-8dde4342b30e.jpg)
+
+
 
 
 # Gamma
@@ -51,3 +56,6 @@ RGB는 가산혼합 방식이기 때문에 세가지 색이 섞이면 하얀색�
 https://www.youtube.com/watch?v=SxYid1Admas&ab_channel=NettMario
 
 https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
+
+https://www.youtube.com/watch?v=Xwlm5V-bnBc&ab_channel=UnityKorea
+
