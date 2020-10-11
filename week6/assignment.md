@@ -1,4 +1,4 @@
-# 1. Composition (컴포지션)
+# 1. Composition 
 
 1-1. Center Composition
 ------------------------
@@ -18,6 +18,10 @@
 
 **********************
 
-# 2. Pattern (패턴)
+# 2. Pattern
 
-2-1.
+
+# 3. Depth 
+
+
+# 4. Color
