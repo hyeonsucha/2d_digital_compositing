@@ -55,9 +55,7 @@
 
 화면 속 색은 다양한 구성을 통해 다양한 분위기를 만들고 스토리를 상징적으로 표현한다.
 
-![다운로드](https://user-images.githubusercontent.com/71221618/95679155-ddc85780-0c0b-11eb-89b6-f3462d4e26b4.jpg)
-
 ![2be399d625a12d7323a41c0d6629d9f7](https://user-images.githubusercontent.com/71221618/95679164-e6b92900-0c0b-11eb-9f24-c20e7720ac21.jpg)
 
-![images](https://user-images.githubusercontent.com/71221618/95679169-ed47a080-0c0b-11eb-820a-7438483d43d1.jpg)
+![2501E24556F8C70515](https://user-images.githubusercontent.com/71221618/95679238-5b8c6300-0c0c-11eb-83c3-497e90000cb6.png)
 
