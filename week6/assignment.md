@@ -17,7 +17,7 @@
 
 ![Rule-of-thirds-movie-1](https://user-images.githubusercontent.com/71221618/95678403-655f9780-0c07-11eb-8970-19b776047312.jpg)
 
-1-3. Framing
+1-3. Framing 
 ------------
 화면 속에 마치 액자처럼 프레임을 만드는 기법. 만들어진 프레임은 그 속의 피사체를 강조한다.
 
@@ -25,7 +25,7 @@
 
 ![Graduate-3](https://user-images.githubusercontent.com/71221618/95678542-562d1980-0c08-11eb-9afa-1de0f1d29ba8.jpg)
 
-1-4. Linear Motif
+1-4. Linear Motif 
 -----------------
 화면 속 이미지는 단순한 선으로 표현할 수 있다.
 
@@ -36,10 +36,28 @@
 
 **********************
 
-# 2. Pattern
+# 2. Pattern 
+
+화면 속 패턴은 스토리의 특정한 의미나 상징을 나타내거나 시선을 집중시키는 역할을 한다.
+
+![unnamed](https://user-images.githubusercontent.com/71221618/95678886-59c1a000-0c0a-11eb-98b2-a0fe840a2eea.png)
 
 
 # 3. Depth 
 
+카메라의 초점이 맞춰져 있는 곳은 선명하게 보이고 반대로 맞춰지지 않은 곳은 흐릿하게 보인다. 이를 이용하여 화면 속 깊이감과 공간감을 줄 수 있다.
+
+![123](https://user-images.githubusercontent.com/71221618/95678926-9beae180-0c0a-11eb-9f61-d6aa77fe322b.jpg)
+
+![89ed480268f02090e8d45ed971dd830f](https://user-images.githubusercontent.com/71221618/95679078-7f02de00-0c0b-11eb-9957-8338a234beb1.png)
 
 # 4. Color
+
+화면 속 색은 다양한 구성을 통해 다양한 분위기를 만들고 스토리를 상징적으로 표현한다.
+
+![다운로드](https://user-images.githubusercontent.com/71221618/95679155-ddc85780-0c0b-11eb-89b6-f3462d4e26b4.jpg)
+
+![2be399d625a12d7323a41c0d6629d9f7](https://user-images.githubusercontent.com/71221618/95679164-e6b92900-0c0b-11eb-9f24-c20e7720ac21.jpg)
+
+![images](https://user-images.githubusercontent.com/71221618/95679169-ed47a080-0c0b-11eb-820a-7438483d43d1.jpg)
+
