@@ -27,9 +27,12 @@
 
 1-4. Linear Motif
 -----------------
-모든 이미지는 단순한 선으로 표현할 수 있다.
+화면 속 이미지는 단순한 선으로 표현할 수 있다.
+
+![04-composition-theories-in-film](https://user-images.githubusercontent.com/71221618/95678726-7c06ee00-0c09-11eb-81da-ca489daf7ff8.png)
 
 
+![05-composition-theories-in-film](https://user-images.githubusercontent.com/71221618/95678774-c1c3b680-0c09-11eb-957f-bd843b37bb58.jpg)
 
 **********************
 
