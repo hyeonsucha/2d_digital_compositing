@@ -2,7 +2,7 @@
 
 1-1. Center Composition
 ------------------------
-화면의 중심에 피사체를 배치하여 시각적으로 강조된다.
+화면의 중심에 인물을 배치하여 인물의 성격이나 행동에 집중 할 수 있으며 그로인해 강렬한 느낌을 준다.
 
 ![27647F4556F8C70032](https://user-images.githubusercontent.com/71221618/95678229-43194a00-0c06-11eb-8a55-ccb499b014b9.png)
 
@@ -11,7 +11,11 @@
 
 1-2. Rule of Third
 -------------------
+두 개의 수직선과 두 개의 수평선을 이용해 화면을 각각 삼 등분 하여 선이 교차하는 지점에 피사체를 배치한다. 이는 가장 쉽고 보편적인 레이아웃 기법이다.
 
+![rule-of-thirds](https://user-images.githubusercontent.com/71221618/95678399-5bd62f80-0c07-11eb-875f-34176a024ccf.jpg)
+
+![Rule-of-thirds-movie-1](https://user-images.githubusercontent.com/71221618/95678403-655f9780-0c07-11eb-8970-19b776047312.jpg)
 
 1-3. Framing
 ------------
