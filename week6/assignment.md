@@ -19,6 +19,11 @@
 
 1-3. Framing
 ------------
+화면 속에 마치 액자처럼 프레임을 만드는 기법. 만들어진 프레임은 그 속의 피사체를 강조한다.
+
+![Medium-Deakins-Shawshank](https://user-images.githubusercontent.com/71221618/95678539-4a415780-0c08-11eb-87bb-537f8d688316.jpg)
+
+![Graduate-3](https://user-images.githubusercontent.com/71221618/95678542-562d1980-0c08-11eb-9afa-1de0f1d29ba8.jpg)
 
 1-4. Linear Motif
 -----------------
