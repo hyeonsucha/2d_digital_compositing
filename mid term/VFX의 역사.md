@@ -80,6 +80,7 @@
 ![visual-effects-vfx](https://user-images.githubusercontent.com/71221618/102017774-41a60280-3dac-11eb-944c-cb10ed388bc7.jpg)
 
 ![wired_vfx-super](https://user-images.githubusercontent.com/71221618/102017737-16231800-3dac-11eb-826d-fa9ee8568b77.jpg)
+
 <CG를 이용한 VFX>
 
 1-2. 잔상 효과의 발견
