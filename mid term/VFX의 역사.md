@@ -418,7 +418,14 @@ VFX에 컴퓨터를 최초로 활용한 장편영화는 1968년에 개봉한 스
 # 참고 자료
 글
 ---
+https://ko.wikipedia.org/wiki/%EB%8B%AC%EC%84%B8%EA%B3%84_%EC%97%AC%ED%96%89
 https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81_%ED%9A%A8%EA%B3%BC
+https://ko.wikipedia.org/wiki/%EC%95%84%EC%9D%B4%EB%B2%88_%EC%84%9C%EB%8D%9C%EB%9E%9C%EB%93%9C
+https://m.blog.naver.com/cine_play/221081819736
+https://smsinfo.tistory.com/568
+http://www.nextdaily.co.kr/news/article.html?id=20080331800075
+https://vfxteam.tistory.com/105
+http://m.cine21.com/news/view/?mag_id=86920
 
 논문/서적
 ----------
